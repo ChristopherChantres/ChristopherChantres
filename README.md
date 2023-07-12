@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christopher Chantres</h1>
 <h3 align="center">A passionate python developer!! 🚀</h3>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="christopher-chantres" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/christopher-chantres?trk=profile-badge">Christopher Chantres</a></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christopherchantres&label=Profile%20views&color=0e75b6&style=flat" alt="christopherchantres" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christopherchantres" alt="christopherchantres" /></a> </p>
